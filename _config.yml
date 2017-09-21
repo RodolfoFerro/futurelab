@@ -22,7 +22,7 @@ baseurl: "/futurelab"
 url: "https://futurelab-ugto.github.io"
 permalink: /:year/:month/:day/:title
 # repository: RodolfoFerro/futurelab
-repository: futurelab-ugto/
+repository: futurelab-ugto/futurelab
 paginate: 5
 
 # MatJek specific configurations
