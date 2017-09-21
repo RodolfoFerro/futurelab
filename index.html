@@ -1,7 +1,10 @@
 ---
 layout: page
-css: ["index.css"]
+<!-- css: ["index.css"] -->
+css: ["index.css", "about.css", "animate.css", "morphext.css"]
+js: ["morphext.min.js", "about.js"]
 ---
+{% include about.html %}
 <div class="row">
   {% for post in paginator.posts %}
   <div class="col s12">
