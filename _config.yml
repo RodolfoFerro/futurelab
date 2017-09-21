@@ -18,7 +18,7 @@ sass:
 title: "future·lab"
 description: "Trabajamos en el futuro que queremos..."
 baseurl: "/futurelab"
-url: "https://rodolfoferro.github.io"
+url: "https://futurelab-ugto.github.io"
 permalink: /:year/:month/:day/:title
 # repository: RodolfoFerro/futurelab
 repository: futurelab-ugto/futurelab
