@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tags"
+title: "Etiquetas"
 css: ["tags.css"]
 ---
 {% include tags.html %}

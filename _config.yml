@@ -20,14 +20,16 @@ description: "Trabajamos en el futuro que queremos..."
 baseurl: "/futurelab"
 url: "https://rodolfoferro.github.io"
 permalink: /:year/:month/:day/:title
-repository: RodolfoFerro/futurelab
+# repository: RodolfoFerro/futurelab
+repository: futurelab-ugto/futurelab
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/RodolfoFerro"
+github_profile: "https://github.com/futurelab-ugto"
 user: "future·lab"
-# user_email: "ferro@cimat.mx"
-# contact_url: "https://goo.gl/tVljbV"
+user_email: "ferro@cimat.mx"
+slogan: "Trabajamos en el futuro que queremos..."
+contact_url: "https://goo.gl/forms/sdlm6VoBziKpcX6w2"
 # google_tracking_id: "UA-96359860-1"
 # google_site_verification: "UA-96359860-1"
 # disqus_shortname: "matjek"
