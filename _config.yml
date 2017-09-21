@@ -7,13 +7,15 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+sass:
+  add_charset: true
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: future·lab
+title: "future·lab"
 description: "Trabajamos en el futuro que queremos..."
 baseurl: "/futurelab"
 url: "https://rodolfoferro.github.io"
@@ -23,8 +25,8 @@ paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://github.com/RodolfoFerro"
-user: "Rodolfo Ferro"
-user_email: "ferro@cimat.mx"
+user: "future·lab"
+# user_email: "ferro@cimat.mx"
 # contact_url: "https://goo.gl/tVljbV"
 # google_tracking_id: "UA-96359860-1"
 # google_site_verification: "UA-96359860-1"
@@ -43,3 +45,6 @@ exclude:
 sass:
   style: compressed
 future: true
+
+# To generate files using bundle, run:
+# bundle exec jekyll build
